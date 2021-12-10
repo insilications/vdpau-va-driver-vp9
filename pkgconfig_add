@@ -1,0 +1,11 @@
+# This file contains additional pkgconfig build requirements that did
+# not get picked up automatically. One name per line, no whitespace.
+dri
+dri2proto
+dri3proto
+vdpau
+libva
+libva-drm
+libva-glx
+libva-wayland
+libva-x11
