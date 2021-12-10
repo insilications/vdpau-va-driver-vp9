@@ -1,1 +1,2 @@
 --prefix=/usr
+--enable-glx
