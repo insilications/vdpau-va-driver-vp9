@@ -48,7 +48,6 @@ libxml2-dev
 libxml2-staticdev
 libxslt-bin
 libxslt-dev
-libxslt-staticdev
 mesa
 mesa-dev
 mesa-lib
