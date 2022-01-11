@@ -1,5 +1,5 @@
 PKG_NAME := vdpau-va-driver-vp9
-URL = https://github.com/xuanruiqi/vdpau-va-driver-vp9.git
+URL = https://github.com/thesword53/vdpau-va-driver-vp9.git
 ARCHIVES = 
 ARCHIVES_GIT = 
 
